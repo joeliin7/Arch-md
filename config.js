@@ -1,16 +1,16 @@
 /*
  * Base By Ednut
- * Created On 11/10/2024
- * Contact Me on wa.me/2348102487241
+ * Created On 22/01/2025
+ * Contact Me on wa.me/2348122377978
 */
 
 const chalk = require("chalk")
 const fs = require("fs")
 
 //======= Change settings =======\\
-global.owner = ["2347036214381"]
-global.botname = ["Arch Md"]
-global.simbol = "♘"
+global.owner = ["2348122377978"]
+global.botname = ["joel greenwood"]
+global.simbol = "🫥"
 global.typeMenu = 'v5' //don't change 
 global.anticall = false // set true to turn anticall always on
 global.xprefix = '.' // your desired prefix
